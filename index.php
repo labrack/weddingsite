@@ -1,5 +1,4 @@
 <?php
-// Kim Tom Wedding Site
 /*
 |---------------------------------------------------------------
 | PHP ERROR REPORTING LEVEL
