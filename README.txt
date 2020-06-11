@@ -1,6 +1,4 @@
-An installer is coming soon.
-
-In the mean time, you can do the following to install:
+You can do the following to install:
 
 1.) Upload files to a linux apache server
 2.) Set up your codeigniter database in system/application/config/database.php
